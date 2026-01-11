@@ -1,6 +1,5 @@
 # 📊 SQL Fundamental Questions for Data Analysis
 
-📌 Overview:
 This repository contains a curated collection of frequently asked SQL interview questions and answers designed specifically for Data Analyst roles.
 It covers SQL fundamentals, query-based problems, and real-world interview scenarios, making it ideal for freshers, interns, and early-career analysts.
 
