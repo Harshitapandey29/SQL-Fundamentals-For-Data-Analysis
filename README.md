@@ -22,6 +22,11 @@ It covers SQL fundamentals, query-based problems, and real-world interview scena
 - Interview Queries (Top-N, duplicates, salary problems)
 - Date-based queries
 - Row to column transformation (CASE / PIVOT)
+- Core SQL Concepts
+- Joins & Relationships
+- CTEs
+- Conditional aggregation using CASE
+- Window Functions
 
 ----
 
